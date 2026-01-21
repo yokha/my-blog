@@ -3,7 +3,7 @@ title: "Hello"
 description: "Why I’m starting this blog, and what I’ll write about."
 pubDate: 2026-01-21
 tags: ["blog", "backend"]
-heroImage: "/public/blog/hello.jpg"
+# heroImage: "/public/blog/hello.jpg"
 ---
 
 I’m Youssef. I build backend systems and care a lot about fundamentals:
