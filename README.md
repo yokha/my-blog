@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Blog
 
 Personal technical blog covering backend engineering, distributed systems,
