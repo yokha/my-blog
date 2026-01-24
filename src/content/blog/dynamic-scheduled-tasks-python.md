@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Scheduled Tasks in Python: The Safe Way"
+title: "Dynamic Scheduled Tasks in Python"
 description: "Why binding scheduled tasks once can make them stale, how dynamic logic breaks silently, and how to design safe, reloadable scheduled jobs in Python."
 pubDate: 2026-01-23
 tags: ["python", "fastapi", "scheduler", "async", "backend", "reliability"]
