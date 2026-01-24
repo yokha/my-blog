@@ -1,7 +1,7 @@
 ---
 title: "Raise the Abstraction: Simpler Code, Stabler Tests"
 description: "Why scaling Python systems often means replacing branching logic with small context objects and data-driven rules — and how this improves correctness and testing."
-pubDate: 2026-01-28
+pubDate: 2026-01-24
 tags: ["python", "backend", "design", "testing", "architecture", "clean-code"]
 ---
 

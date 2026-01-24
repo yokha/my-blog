@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Database Connections: Engine, Session, and the Batch Mindset"
 description: "Most database performance problems don’t start in the query. They start in how we connect, transact, batch, and recover under load."
-pubDate: 2026-01-21
+pubDate: 2026-01-24
 tags: ["backend", "databases", "sqlalchemy", "reliability", "performance"]
 ---
 

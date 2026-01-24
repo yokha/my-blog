@@ -1,7 +1,7 @@
 ---
 title: "FastAPI Swagger: Auto-Magic… Until You Need Control"
 description: "FastAPI’s automatic OpenAPI and Swagger docs feel magical—until you need precise control over security schemes, auth flows, and UI behavior."
-pubDate: 2026-01-21
+pubDate: 2026-01-24
 tags: ["fastapi", "openapi", "swagger", "backend", "api-design"]
 ---
 

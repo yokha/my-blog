@@ -1,7 +1,7 @@
 ---
 title: "Can Pydantic Fix Untyped Python?"
 description: "Pydantic adds structure and safety to Python at runtime—but it doesn’t turn Python into a compiled, statically typed language. And that’s okay."
-pubDate: 2026-01-21
+pubDate: 2026-01-24
 tags: ["python", "pydantic", "typing", "backend", "fastapi"]
 ---
 

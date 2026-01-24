@@ -1,7 +1,7 @@
 ---
 title: "SQLAlchemy merge(): Powerful, Convenient — and Easy to Misuse"
 description: "When SQLAlchemy’s session.merge() helps, when it silently hurts, and why explicit fetch–check–update logic often wins in real systems."
-pubDate: 2026-01-27
+pubDate: 2026-01-24
 tags: ["python", "sqlalchemy", "database", "orm", "backend", "reliability"]
 ---
 

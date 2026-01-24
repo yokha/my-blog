@@ -1,7 +1,7 @@
 ---
 title: "Using a Single Session Factory for Multi-Schema Databases in SQLAlchemy"
 description: "How to handle multiple schemas in FastAPI with async SQLAlchemy using a single session factory — and why session-per-request is non-negotiable."
-pubDate: 2026-01-25
+pubDate: 2026-01-24
 tags: ["python", "sqlalchemy", "fastapi", "async", "database", "backend"]
 ---
 

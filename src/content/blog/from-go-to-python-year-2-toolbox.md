@@ -1,7 +1,7 @@
 ---
 title: "From Go to Python: What’s in Your Year-2 Backend Toolbox?"
 description: "After a year building production systems with FastAPI, I’m shifting focus from shipping features to observability, auditability, and long-term correctness. Here’s how my backend toolbox is evolving."
-pubDate: 2026-01-21
+pubDate: 2026-01-24
 tags: ["python", "fastapi", "backend", "observability", "testing", "architecture"]
 ---
 

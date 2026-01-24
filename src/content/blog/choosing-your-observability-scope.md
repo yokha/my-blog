@@ -1,7 +1,7 @@
 ---
 title: "Choosing Your Observability Stack Starts With Scope"
 description: "Why Prometheus, logs, and OpenTelemetry aren’t competing choices — but steps in an observability journey driven by system scope."
-pubDate: 2026-01-29
+pubDate: 2026-01-24
 tags: ["observability", "prometheus", "opentelemetry", "backend", "reliability", "architecture"]
 ---
 

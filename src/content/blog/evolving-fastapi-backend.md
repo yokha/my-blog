@@ -1,7 +1,7 @@
 ---
 title: "Evolving a FastAPI Backend: REST, WebSockets and Event-Driven"
 description: "When a FastAPI backend grows beyond REST: how messaging, WebSockets, and event-driven UX change your architecture — and how to avoid common traps."
-pubDate: 2026-01-22
+pubDate: 2026-01-24
 tags: ["fastapi", "backend", "event-driven", "websockets", "architecture", "async"]
 ---
 

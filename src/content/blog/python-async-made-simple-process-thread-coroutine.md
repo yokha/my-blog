@@ -1,7 +1,7 @@
 ---
 title: "Python Async Made Simple: Process vs Thread vs Coroutine"
 description: "A practical mental model for Python concurrency: processes, threads, and async coroutines—what they are, when to use them, and why FastAPI can surprise you."
-pubDate: 2026-01-21
+pubDate: 2026-01-24
 tags: ["python", "async", "concurrency", "fastapi", "backend"]
 ---
 

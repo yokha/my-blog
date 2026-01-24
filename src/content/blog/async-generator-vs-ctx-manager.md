@@ -1,7 +1,7 @@
 ---
 title: "The Subtle Async Mistake: Async Generators vs Async Context Managers"
 description: "A real-world async bug caused by confusing a callable async generator with an async context manager — and why Python’s async protocols can quietly bite you."
-pubDate: 2026-01-26
+pubDate: 2026-01-21
 tags: ["python", "async", "fastapi", "testing", "backend", "reliability"]
 ---
 
